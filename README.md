@@ -57,8 +57,8 @@
 1. **Install the Flutter SDK & Android Studio.** [Instructions](https://medium.com/enappd/install-flutter-on-windows-and-mac-1fd1dde453ba).  
 2. **Clone the repository.**  
    ```shell
-   git clone https://github.com/YourUsername/EcoTripAbuDhabi.git
-   cd EcoTripAbuDhabi
+   git clone https://github.com/ahmad-kanbari/EcoJourney-AbuDhabi/edit/main/README.md
+   cd EcoJourney-AbuDhabi
    ```
 3. **Run the app on your device.**  
    ```shell
@@ -89,7 +89,7 @@ This project adheres to [Semantic Versioning 2.0.0](https://semver.org/).
 
 ## :question: Queries / Bugs
 
-Have a question or found a bug? Open an [issue](https://github.com/YourUsername/EcoTripAbuDhabi/issues/new) or reach out via [email@example.com](mailto:email@example.com).
+Have a question or found a bug? Open an [issue]([(https://github.com/ahmad-kanbari/EcoJourney-AbuDhabi/blob/main/README.md)/issues/new) or reach out via (akanbari@htudent.42abudhabi.ae).
 
 ---
 
