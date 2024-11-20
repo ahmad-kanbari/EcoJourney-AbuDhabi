@@ -110,6 +110,3 @@ KhisravBek Shamsudinov
 
 Special thanks to all contributors and sponsors for supporting this initiative. Your help makes sustainable tourism a reality!  
 
---- 
-
-Feel free to customize the links and update images/screenshots to reflect your application!
