@@ -89,7 +89,7 @@ This project adheres to [Semantic Versioning 2.0.0](https://semver.org/).
 
 ## :question: Queries / Bugs
 
-Have a question or found a bug? Open an [issue]([(https://github.com/ahmad-kanbari/EcoJourney-AbuDhabi/blob/main/README.md)/issues/new) or reach out via (akanbari@htudent.42abudhabi.ae).
+Have a question or found a bug? Open an [issue]([(https://github.com/ahmad-kanbari/EcoJourney-AbuDhabi/blob/main/README.md)/issues/new) or reach out via (akanbari@student.42abudhabi.ae).
 
 ---
 
