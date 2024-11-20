@@ -6,8 +6,8 @@ authors:
   - Haithem Bendjaballah
   - Zubaydullo Abdulrakhmanov
   - KhisravBek
-  - Abdullah
-repository: https://github.com/ShivamGoyal1899/EcoJourney
+
+repository: https://github.com/ahmad-kanbari/EcoTripJourney/settings
 
 environment:
   sdk: '>=2.12.0 <4.0.0'
