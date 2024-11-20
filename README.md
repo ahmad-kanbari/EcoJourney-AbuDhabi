@@ -5,13 +5,13 @@
 </p>
 </p>
 <p align="center">
-  <strong>EcoTrip Abu Dhabi</strong> is an AI-powered sustainable tourism platform that offers personalized itineraries, promotes eco-friendly travel, and showcases Abu Dhabi's cultural and natural heritage. It seamlessly integrates open data to enhance the tourist experience while supporting Abu Dhabi's Vision 2030 goals of sustainability and cultural preservation.
+  <strong>EcoJourney Abu Dhabi</strong> is an AI-powered sustainable tourism platform that offers personalized itineraries, promotes eco-friendly travel, and showcases Abu Dhabi's cultural and natural heritage. It seamlessly integrates open data to enhance the tourist experience while supporting Abu Dhabi's Vision 2030 goals of sustainability and cultural preservation.
 </p>
 <p align="center">
   Show some love 💜 and Star ⭐️ the Repository to support the project.
 </p>
 
-|                     Interactive Map                     |                     AI ChatBot                      |                   Gamification                     |
+|                     Interactive Map                     |                    Voice Speech && AI ChatBot       |                   Gamification                     |
 |:-------------------------------------------------------:|:--------------------------------------------------:|:-------------------------------------------------:|
 | <img width="1604" src="./readme/screenshot1.jpg">       | <img width="1604" src="./readme/screenshot2.jpg">  | <img width="1604" src="./readme/screenshot3.jpg"> |
 |       **Cultural Highlights**                          |       **Sustainability Insights**                  |          **Rewards and Progress Tracking**        |
