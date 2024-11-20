@@ -1,6 +1,3 @@
-Below is the generated README for your new hackathon project, **EcoTrip Abu Dhabi**, based on the information provided:  
-
----
 
 <p align="center">
   <a href="#">
