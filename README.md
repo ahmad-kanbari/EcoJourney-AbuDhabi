@@ -1,25 +1,7 @@
 
-<p align="center">
-  <a href="#">
-    <img alt="EcoTrip Abu Dhabi" src="./readme/eco_trip_logo.png" width="100%" />
-  </a>
 </p>
 <p align="center">
   <strong>EcoTrip Abu Dhabi</strong> is an AI-powered sustainable tourism platform that offers personalized itineraries, promotes eco-friendly travel, and showcases Abu Dhabi's cultural and natural heritage. It seamlessly integrates open data to enhance the tourist experience while supporting Abu Dhabi's Vision 2030 goals of sustainability and cultural preservation.
-</p>
-<p align="center">
-  <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/YourUsername/EcoTripAbuDhabi?style=for-the-badge" alt="EcoTrip Abu Dhabi is released under the MIT license." />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/v/release/YourUsername/EcoTripAbuDhabi?style=for-the-badge" alt="Latest Version Available." />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/repo-size/YourUsername/EcoTripAbuDhabi?style=for-the-badge" alt="GitHub Repository size." />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/github/downloads/YourUsername/EcoTripAbuDhabi/total?style=for-the-badge" alt="Total downloads on GitHub." />
-  </a>
 </p>
 <p align="center">
   Show some love 💜 and Star ⭐️ the Repository to support the project.
