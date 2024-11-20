@@ -1,4 +1,8 @@
-
+<p align="center">
+  <a href="https://github.com/ShivamGoyal1899/EcoJourney">
+    <img alt="EcoJourney" src="./readme/ecoJourney - 3000x1000.png" width="100%" />
+  </a>
+</p>
 </p>
 <p align="center">
   <strong>EcoTrip Abu Dhabi</strong> is an AI-powered sustainable tourism platform that offers personalized itineraries, promotes eco-friendly travel, and showcases Abu Dhabi's cultural and natural heritage. It seamlessly integrates open data to enhance the tourist experience while supporting Abu Dhabi's Vision 2030 goals of sustainability and cultural preservation.
