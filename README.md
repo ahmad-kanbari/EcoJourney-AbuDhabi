@@ -106,7 +106,5 @@ Zubaidull0 Abdulrakhmanov
 haithem Bendjaballah
 KhisravBek Shamsudinov
 
-## :purple_heart: Thanks
 
-Special thanks to all contributors and sponsors for supporting this initiative. Your help makes sustainable tourism a reality!  
 
