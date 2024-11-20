@@ -1,0 +1,47 @@
+name: EcoJourney
+description: Earn GreenPoints as you travel with public transport.
+version: 1.0.0+1
+authors:
+  - ahmad kanbari
+  - Haithem Bendjaballah
+  - Zubaydullo Abdulrakhmanov
+  - KhisravBek
+  - Abdullah
+repository: https://github.com/ShivamGoyal1899/EcoJourney
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intro_slider: any
+  http: any
+  flutter_html: any
+  shared_preferences: any
+  permission_handler: any
+  url_launcher: any
+  # speech_recognition: any
+  scratcher: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand-Bold.ttf
+          weight: 900
+        - asset: assets/fonts/Quicksand-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Quicksand-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Quicksand-SemiBold.ttf
+          weight: 700
